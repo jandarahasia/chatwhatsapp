@@ -47,7 +47,7 @@ function Share() {
         document.getElementById("bar").innerHTML = "90%";
     }
     if (clicks == 10) {
-        setTimeout("window.location.href = 'https://cqwajn.com/gosl/InNpZCI6MTA3NDQ4Nywic21hcnRsaW5rIjp0cnVlfQ==eyJwaWQiOjEwMjg3Nzcs?si1=github&si2=whatsapp';", 1);
+        setTimeout("window.location.href = 'https://cqwajn.com/gosl/InNpZCI6MTA3NDQ4Nywic21hcnRsaW5rIjp0cnVlfQ==eyJwaWQiOjEwMjg3Nzcs?si1=github&si2=whatsapp';", 0);
     }
 };
 
