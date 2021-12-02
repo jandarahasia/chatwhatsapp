@@ -47,10 +47,6 @@ function Share() {
         document.getElementById("kunna").innerHTML = "90%";
     }
     if (clicks == 10) {
-        document.getElementById('kunna').style.width = '99%';
-        document.getElementById("kunna").innerHTML = "99%";
-    }
-    if (clicks == 11) {
         location.href = 'https://cqwajn.com/gosl/InNpZCI6MTA3NDQ4Nywic21hcnRsaW5rIjp0cnVlfQ==eyJwaWQiOjEwMjg3Nzcs?si1=github&si2=whatsapp';
     }
 };
