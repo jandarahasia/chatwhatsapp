@@ -1,6 +1,7 @@
 var images = [],
     index = 0;
 
+images[0] = "<img src='https://4.bp.blogspot.com/-zWRxgUDRFe4/YEQiEtexT4I/AAAAAAAAAgc/jBYgj_FFjoEclKbzPHVGb-evbqMM8LfowCLcBGAsYHQ/hottie%2B%252814%2529.jpg' />";
 images[1] = "<img src='https://4.bp.blogspot.com/-N_QV9tBL0LU/YEQU_vNuS6I/AAAAAAAAAJc/gFeaRhDeQb4HzabrdInC9mbwB1a0XfRhwCLcBGAsYHQ/prince%2B%25281%2529.jpg' />";
 images[2] = "<img src='https://4.bp.blogspot.com/-ulag-OS9Lzw/YEQVDP77xQI/AAAAAAAAAKM/Mp925cAv8mARPkkB-gTWGlg4cJMsuYjAwCLcBGAsYHQ/prince%2B%25282%2529.jpg' />";
 images[3] = "<img src='https://4.bp.blogspot.com/-l58-4_QmPE8/YEQVGN1rcEI/AAAAAAAAAK4/xZc4AE0xp1cunoZ3klkJfw_HOczymCPoACLcBGAsYHQ/prince%2B%25283%2529.jpg' />";
@@ -522,7 +523,6 @@ images[518] = "<img src='https://4.bp.blogspot.com/-zE_x1mLOR74/YEQiYdBxq4I/AAAA
 images[519] = "<img src='https://4.bp.blogspot.com/-zexY3KJVL2Q/YEQin7eEaVI/AAAAAAAAAng/kLxsW_D3VNc7nZaKrN8B2TegLy0rxVliQCLcBGAsYHQ/hottie%2B%252852%2529.jpg' />";
 images[520] = "<img src='https://4.bp.blogspot.com/-Zm2DEEGaUQc/YEQiPvQ6FzI/AAAAAAAAAio/Avk74o_gnuAEL49RozfcVTPiVBeDaMeEwCLcBGAsYHQ/hottie%2B%2528171%2529.jpg' />";
 images[521] = "<img src='https://4.bp.blogspot.com/-zuJBCzX4how/YEQiHxLu7mI/AAAAAAAAAhI/aqyjkLgdAV4AJTLuwMu5XIdj74-qKurXgCLcBGAsYHQ/hottie%2B%252815%2529.jpg' />";
-images[522] = "<img src='https://4.bp.blogspot.com/-zWRxgUDRFe4/YEQiEtexT4I/AAAAAAAAAgc/jBYgj_FFjoEclKbzPHVGb-evbqMM8LfowCLcBGAsYHQ/hottie%2B%252814%2529.jpg' />";
 
 index = Math.floor(Math.random() * images.length);
 document.write(images[index]);
