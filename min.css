@@ -66,3 +66,18 @@
     padding:0;
     line-height:30px
 }
+
+#back-to-top {
+    background: #01e675;
+    color: #ffffff;
+    padding: 10px 12px;
+    border-radius: 50px;
+    font-size: 15px
+}
+
+.back-to-top {
+    position: fixed !important;
+    bottom: 10px;
+    right: 10px;
+    z-index: 9999;
+}
