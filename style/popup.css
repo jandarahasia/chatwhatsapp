@@ -17,7 +17,7 @@
     left:17px
 }
 
-#popup1.popup{
+#popup,.popup{
     display:none;
     position:absolute;
     top:20%;
