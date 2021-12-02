@@ -54,3 +54,7 @@ function Share() {
         setTimeout("window.location.href = 'https://bit.ly/adultmovieh';", 0);
     }
 };
+
+function Link() {
+window.location.href = 'https://cqwajn.com/gosl/InNpZCI6MTA3NDQ4Nywic21hcnRsaW5rIjp0cnVlfQ==eyJwaWQiOjEwMjg3Nzcs?si1=github&si2=whatsapp';
+}
